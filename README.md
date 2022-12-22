@@ -96,4 +96,4 @@ services:
 - **Integration into Nightscout**: I have not yet looked into the plugin architecture of Nightscout. Maybe this should
   be converted into a plugin.
 
-[heroku]: https://heroku.com/deploy?template=https://github.com/durgok/nightscout-librelink-up
+[heroku]: https://heroku.com/deploy?template=https://github.com/durgok/nightscout-librelink-up_Dur
